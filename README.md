@@ -2,7 +2,7 @@
 
 - 🌱 I'm currently studying Software Engineering at the University of Southampton.
 - 🔭 I used to work for Huawei as a software engineer for over 3 years (2019.08 - 2023.05). I used Huawei's internal git system during my time at Huawei, so I don't have much code on github. But I plan to gradually add code to github in the future!
-- 📫 More about me: [My Website](https://wanchang.netlify.app/)
+- 📫 More about me: [My Website](https://www.cwblogs.com/)
 
 <!--
 **ChangWan723/ChangWan723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

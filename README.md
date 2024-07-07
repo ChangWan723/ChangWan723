@@ -4,10 +4,6 @@
 - 🔭 I used to work for Huawei as a software engineer for about 4 years (2019.08 - 2023.05). I used Huawei's internal git system during my time at Huawei, so I don't have much code on github. But I plan to gradually add code to github in the future!
 - 📫 More about me: [My Website](https://www.cwblogs.com/)
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWan723&theme=react&layout=compact" />
-</p>
-
 <!--
 **ChangWan723/ChangWan723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

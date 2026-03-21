@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm currently working in [Trip.com Group](https://group.trip.com/).
-- 🔭 I used to work for [Huawei](https://www.huawei.com/en/) as a software engineer for about 4 years (2019.08 - 2023.05).
+- 🔭 I used to work for [Huawei](https://www.huawei.com/en/) as a software engineer for over 3 years (2019.08 - 2023.05).
 - 📫 More about me: [My Website](https://www.cwblogs.com/)
 
 <!--
